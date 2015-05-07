@@ -1,0 +1,5 @@
+function zero(){
+  a = [];
+
+  return [];  
+}
